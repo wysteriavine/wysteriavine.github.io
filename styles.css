@@ -1,0 +1,59 @@
+body{
+padding: 25px;
+animation-name: bounce;
+animation duration: 25s;
+animation-iteration-count: infinite;
+}
+.title {
+    color:darkorchid;
+    font-size:x-large;
+    font-family:
+    text shadow 5px 5px 1px;
+}
+h1{
+    color:rgb(115, 92, 137);
+    font-size:xx-large;
+    font-family:'Courier New', Courier, monospace;
+}
+h2{
+    color:rgb(180, 161, 196);
+    font-size:small;
+    font-family:monospace;
+}
+h3{
+    color:rgb(115, 92, 137);
+    font-size: smaller;
+    font-family: monospace;
+    background-color:beige;
+    border-color:rgb(180, 161, 196);
+    border-style: dotted;
+    padding: 10px;
+}
+
+h4{
+    color:rgb(115, 92, 137);
+    font-size:large;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h5{
+    color:rgb(124, 155, 71);
+    font-size: small;
+    font-family: monospace;
+     background-color:beige;
+    border-color:rgb(180, 161, 196);
+    border-style: dotted;
+    padding: 5px;
+
+}
+p{
+    color:rgb(124, 155, 71);
+    font-size:medium;
+    font-family:'Courier New', Courier, monospace
+}
+
+body {
+    background-color:rgb(255, 250, 183)
+}
+#wonderful
+    position: relative;
